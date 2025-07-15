@@ -6,3 +6,8 @@
 // 11+ chars → "Strong"
 
 const password = "pass123";
+if (condition) {
+    
+} else {
+    
+}
